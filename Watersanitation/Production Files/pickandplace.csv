@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J8","Conn_01x01_Pin","educate_touchpad",112.584389,-165.529150,0.000000,top
+"J9","Conn_01x01_Pin","educate_touchpad",124.610885,-174.514052,0.000000,top
+"J10","Conn_01x01_Pin","educate_touchpad",173.180598,-174.539967,90.000000,top
+"J11","Conn_01x01_Pin","educate_touchpad",185.585576,-165.397150,180.000000,top
+"REF**","VALCON_CSP-USC16-TR","VALCON_CSP-USC16-TR",148.380000,-181.220000,0.000000,top
